@@ -1,6 +1,7 @@
 
 # Bibliotecas de audio 
 
+- https://soundeffect-lab.info/
 - https://samplefocus.com/categories/drums
 - https://soundeffects.fandom.com/wiki/Sound_Effects_Wiki
 - https://tuna.voicemod.net/sfx
